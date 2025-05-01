@@ -1,0 +1,105 @@
+{
+  "project_info": {
+    "project_number": "622667877844",
+    "project_id": "tanako-66",
+    "storage_bucket": "tanako-66.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:622667877844:android:9f3141d78ce9990ed55a41",
+        "android_client_info": {
+          "package_name": "com.example.ala"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCOW0655OR1oWM6dJt-OAUwbAOdcPEo82E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:622667877844:android:e1bef913f1efb90fd55a41",
+        "android_client_info": {
+          "package_name": "com.example.sport_shop"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCOW0655OR1oWM6dJt-OAUwbAOdcPEo82E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:622667877844:android:c3cabf749511f40fd55a41",
+        "android_client_info": {
+          "package_name": "com.example.tanako66"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCOW0655OR1oWM6dJt-OAUwbAOdcPEo82E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:622667877844:android:a84521ab881915cdd55a41",
+        "android_client_info": {
+          "package_name": "com.tanjimtajwar"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCOW0655OR1oWM6dJt-OAUwbAOdcPEo82E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:622667877844:android:f62a150d4523a8f2d55a41",
+        "android_client_info": {
+          "package_name": "com.tanjimtajwar.tanako_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCOW0655OR1oWM6dJt-OAUwbAOdcPEo82E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
