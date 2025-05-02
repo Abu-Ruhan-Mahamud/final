@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "353983318266",
+    "project_id": "on-shop-app-fbace",
+    "storage_bucket": "on-shop-app-fbace.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:353983318266:android:bdd68a90f9056edeefa143",
+        "android_client_info": {
+          "package_name": "com.testuser.onshop.on_shop_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDX0WOarpkeo0dvKvowJq7hs86LR84ad0I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
